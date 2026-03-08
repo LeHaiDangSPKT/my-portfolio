@@ -2,7 +2,7 @@ export const personalData = {
   name: "Le Hai Dang",
   profile: '/profile.jpg',
   designation: "Web Developer",
-  description: "My name is Le Hai Dang. I am a professional and enthusiastic programmer in my daily life. I am a quick learner with a self-learning attitude. I love to learn and explore new technologies and am passionate about problem-solving. I love almost all the stacks of web application development and love to make the web more open to the world. My core skill is based on JavaScript and I love to do most of the things using JavaScript. I am available for any kind of job opportunity that suits my skills and interests.",
+  description: "My name is Le Hai Dang, a Frontend Engineer with over 3 years of experience specializing in ReactJS and NextJS. I have experience building scalable, performance-optimized web applications, particularly for media platforms and digital portals. My work focuses on clean architecture, SEO optimization (SSR/SSG, structured data, Core Web Vitals), and delivering production-ready features such as video streaming components, advertising integration, and online payment systems. I also collaborate closely with backend services built on NodeJS and NestJS. I enjoy solving real-world problems through technology and continuously improving my skills to build efficient and maintainable web applications.",
   email: '0509dangle@gmail.com',
   phone: '0868366694',
   address: 'Phuoc Long A, Thu Duc City, Ho Chi Minh City, Vietnam',
