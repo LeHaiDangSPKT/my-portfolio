@@ -8,5 +8,5 @@ export const personalData = {
   address: 'Phuoc Long A, Thu Duc City, Ho Chi Minh City, Vietnam',
   github: 'https://github.com/LeHaiDangSPKT',
   facebook: 'https://www.facebook.com/haidang5916/',
-  resume: "https://drive.google.com/file/d/1ke8aZLQQeWD--CUjl7IsLSX4JfWEl35c/view?usp=drive_link"
+  resume: "https://drive.google.com/file/d/1_XLykPtNz59WWZNC8A1QAyjdkTfAzaDI/view?usp=drive_link"
 }
